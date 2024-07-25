@@ -4,17 +4,16 @@ body{
     font-style: normal;
     font: 18px;
     background-color: #ddd;
-    margin:0px
+    margin:10;
 }
-
 
 
 img{
     width: 400px;
     height: auto;
-    display: block;
-    margin: 0 auto;
     object-fit: cover;
     border-radius: 25%;
-    margin: 1
+    margin-top: 10;
+    object-position:bottom;
 }
+
