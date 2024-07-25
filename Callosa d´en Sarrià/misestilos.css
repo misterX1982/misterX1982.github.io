@@ -4,7 +4,10 @@ body{
     font-style: normal;
     font: 18px;
     background-color: #ddd;
+    margin:0px
 }
+
+
 
 img{
     width: 400px;
@@ -13,4 +16,5 @@ img{
     margin: 0 auto;
     object-fit: cover;
     border-radius: 25%;
+    margin: 1
 }
